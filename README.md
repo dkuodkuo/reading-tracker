@@ -1,5 +1,5 @@
 # Reading Tracker
-Personal reading/note taking tracker
+Personal reading/note-taking tracker repository
 
 ___
 
