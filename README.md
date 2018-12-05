@@ -14,6 +14,10 @@ ___
 
 ## Finished + Comments
 
+### [The most difficult thing in data science: politics](https://www.rdisorder.eu/2017/09/13/most-difficult-thing-data-science-politics/) (Read 2018-12-04)
+
+- I read this and became a little more upset, but it's fine 😊
+
 ### [A Comparison of Basis Expansions in Regression](http://madrury.github.io/jekyll/update/statistics/2017/08/04/basis-expansions.html) (Read 2018-12-02)
 
 - Includes small module for basis expansions: https://github.com/madrury/basis-expansions
