@@ -9,10 +9,22 @@ ___
 - [Cookiecutter Data Science](http://drivendata.github.io/cookiecutter-data-science/)
 - [A Curated List of Data Science Blogs](https://github.com/rushter/data-science-blogs)
 - [How to Sort a Distance Matrix](https://gmarti.gitlab.io/ml/2017/09/07/how-to-sort-distance-matrix.html)
+- [A Feature Selection Tool for Machine Learning](https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0)
 
 ___
 
 ## Finished + Comments
+
+### [A Beginner's Guide to Data Engineering](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7) (All 3 parts) (Read 2018-12-15)
+
+- I needed to read this to ground myself
+- Good structure to how a business should tackle the data problem
+- ETL Paradigms - likely want to stick with SQL-centric approach
+- TLDR: Way more time should be spent on learning data warehousing/engineering
+
+### [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b) (Read 2018-12-05)
+
+- Ideally, be able to describe everything I do as succinctly as this
 
 ### [The most difficult thing in data science: politics](https://www.rdisorder.eu/2017/09/13/most-difficult-thing-data-science-politics/) (Read 2018-12-04)
 
