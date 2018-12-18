@@ -10,6 +10,7 @@ ___
 - [A Curated List of Data Science Blogs](https://github.com/rushter/data-science-blogs)
 - [How to Sort a Distance Matrix](https://gmarti.gitlab.io/ml/2017/09/07/how-to-sort-distance-matrix.html)
 - [A Feature Selection Tool for Machine Learning](https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0)
+- [Neural Networks as ODEs](https://rkevingibson.github.io/blog/neural-networks-as-ordinary-differential-equations/)
 
 ___
 
@@ -19,8 +20,8 @@ ___
 
 - I needed to read this to ground myself
 - Good structure to how a business should tackle the data problem
-- ETL Paradigms - likely want to stick with SQL-centric approach
-- TLDR: Way more time should be spent on learning data warehousing/engineering
+- Largely based on Airflow approach to ETL. Some cool patterns in part 3
+- Note to self, way more time should be spent on learning data warehousing/engineering
 
 ### [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b) (Read 2018-12-05)
 
