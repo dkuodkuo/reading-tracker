@@ -18,6 +18,11 @@ ___
 
 ## Finished + Comments
 
+### [Computing Classification Evaluation Metrics in R](https://blog.revolutionanalytics.com/2016/03/com_class_eval_metrics_r.html) (Read 2019-01-11)
+
+- Read this a long time ago but revisited it for notetaking purposes
+- Python implementation in notes folder ([link](Notes/Classification Evaluation Metrics.ipynb))
+
 ### [Common Probability Distributions Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/) (Read 2019-01-02)
 
 - Quick reference for common distributions and their usual applications
